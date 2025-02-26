@@ -1,0 +1,10 @@
+C:\Users\mfaks\source\repos\T_REX_ENDLESS_RUNNER\T_REX_ENDLESS_RUNNER\bin\Debug\T_REX_ENDLESS_RUNNER.exe.config
+C:\Users\mfaks\source\repos\T_REX_ENDLESS_RUNNER\T_REX_ENDLESS_RUNNER\bin\Debug\T_REX_ENDLESS_RUNNER.exe
+C:\Users\mfaks\source\repos\T_REX_ENDLESS_RUNNER\T_REX_ENDLESS_RUNNER\bin\Debug\T_REX_ENDLESS_RUNNER.pdb
+C:\Users\mfaks\source\repos\T_REX_ENDLESS_RUNNER\T_REX_ENDLESS_RUNNER\obj\Debug\T_REX_ENDLESS_RUNNER.csproj.AssemblyReference.cache
+C:\Users\mfaks\source\repos\T_REX_ENDLESS_RUNNER\T_REX_ENDLESS_RUNNER\obj\Debug\T_REX_ENDLESS_RUNNER.Form1.resources
+C:\Users\mfaks\source\repos\T_REX_ENDLESS_RUNNER\T_REX_ENDLESS_RUNNER\obj\Debug\T_REX_ENDLESS_RUNNER.Properties.Resources.resources
+C:\Users\mfaks\source\repos\T_REX_ENDLESS_RUNNER\T_REX_ENDLESS_RUNNER\obj\Debug\T_REX_ENDLESS_RUNNER.csproj.GenerateResource.cache
+C:\Users\mfaks\source\repos\T_REX_ENDLESS_RUNNER\T_REX_ENDLESS_RUNNER\obj\Debug\T_REX_ENDLESS_RUNNER.csproj.CoreCompileInputs.cache
+C:\Users\mfaks\source\repos\T_REX_ENDLESS_RUNNER\T_REX_ENDLESS_RUNNER\obj\Debug\T_REX_ENDLESS_RUNNER.exe
+C:\Users\mfaks\source\repos\T_REX_ENDLESS_RUNNER\T_REX_ENDLESS_RUNNER\obj\Debug\T_REX_ENDLESS_RUNNER.pdb
