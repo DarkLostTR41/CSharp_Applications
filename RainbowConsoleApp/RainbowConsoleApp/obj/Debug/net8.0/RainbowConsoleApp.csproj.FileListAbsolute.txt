@@ -1,0 +1,14 @@
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\obj\Debug\net8.0\RainbowConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\obj\Debug\net8.0\RainbowConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\obj\Debug\net8.0\RainbowConsoleApp.AssemblyInfo.cs
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\obj\Debug\net8.0\RainbowConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\bin\Debug\net8.0\RainbowConsoleApp.exe
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\bin\Debug\net8.0\RainbowConsoleApp.deps.json
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\bin\Debug\net8.0\RainbowConsoleApp.runtimeconfig.json
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\bin\Debug\net8.0\RainbowConsoleApp.dll
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\bin\Debug\net8.0\RainbowConsoleApp.pdb
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\obj\Debug\net8.0\RainbowConsoleApp.dll
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\obj\Debug\net8.0\refint\RainbowConsoleApp.dll
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\obj\Debug\net8.0\RainbowConsoleApp.pdb
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\obj\Debug\net8.0\RainbowConsoleApp.genruntimeconfig.cache
+C:\Users\mfaks\source\repos\RainbowConsoleApp\RainbowConsoleApp\obj\Debug\net8.0\ref\RainbowConsoleApp.dll
