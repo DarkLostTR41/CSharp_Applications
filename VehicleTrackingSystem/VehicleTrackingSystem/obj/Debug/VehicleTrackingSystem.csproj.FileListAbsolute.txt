@@ -1,0 +1,14 @@
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\obj\Debug\VehicleTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\obj\Debug\VehicleTrackingSystem.Form1.resources
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\obj\Debug\VehicleTrackingSystem.Properties.Resources.resources
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\obj\Debug\VehicleTrackingSystem.csproj.GenerateResource.cache
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\obj\Debug\VehicleTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\bin\Debug\VehicleTrackingSystem.exe.config
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\bin\Debug\VehicleTrackingSystem.exe
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\bin\Debug\VehicleTrackingSystem.pdb
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\obj\Debug\VehicleTrackingSystem.exe
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\obj\Debug\VehicleTrackingSystem.pdb
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\obj\Debug\VehicleTrackingSystem.exe.config
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mfaks\source\repos\VehicleTrackingSystem\VehicleTrackingSystem\obj\Debug\VehicleT.8CC865E1.Up2Date
